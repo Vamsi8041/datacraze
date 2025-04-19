@@ -33,14 +33,7 @@ Sample `requirements.txt` content:
     plotly
 
 ------------------------------------------------------------
-📁 File Structure
-
-.
-├── final_preprocessed.csv       <- Your input CSV file
-├── app.py                       <- Main Streamlit application script
-├── requirements.txt             <- List of dependencies
-└── README.txt                   <- This file
-
+![Dashboard Screenshot](Screenshot 2025-04-19 213106.png)
 ------------------------------------------------------------
 ▶️ How to Run
 
