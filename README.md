@@ -33,7 +33,7 @@ Sample `requirements.txt` content:
     plotly
 
 ------------------------------------------------------------
-![Dashboard Screenshot](Screenshot 2025-04-19 213106.png)
+![Dashboard Screenshot]([Screenshot 2025-04-19 213106.png](https://github.com/Vamsi8041/datacraze/blob/2691aef9170e3aeb1f8eeb25a2c280e43ebdbd54/Screenshot%202025-04-19%20213106.png))
 ------------------------------------------------------------
 ▶️ How to Run
 
