@@ -80,4 +80,4 @@ This project is built using:
 ------------------------------------------------------------
 📬 Contact
 
-For questions, feedback, or support, please open an issue or reach out to the developer.
+For questions, feedback, or support, please open an issue or reach out mohanavamsi963@gmail.com 
